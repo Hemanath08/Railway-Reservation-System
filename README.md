@@ -1,4 +1,4 @@
-<img width="1111" height="961" alt="CommunicationDiagram1 EX 03" src="https://github.com/user-attachments/assets/4ce3c967-6c3a-4b3d-8b1d-37b0737ad98b" /># Railway-Reservation-System
+# Railway-Reservation-System
 
 # Reg No: 212223100012
 # Name: K.HEMANATH
